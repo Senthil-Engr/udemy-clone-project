@@ -1,2 +1,2 @@
 # udemy-clone-project
-Udemy Close Website Project
+Udemy Clone Website Project
